@@ -21,7 +21,7 @@
 
 <h1>Mobile</h1>
 <p align="center">
-  <img alt="" src=".github/preview-mobile.png" width="50%">
+  <img alt="" src=".github/" width="50%">
 </p>
 
 ## 🚀 Tecnologias
