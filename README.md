@@ -16,12 +16,12 @@
 
 <h1>Desktop</h1>
 <p align="center">
-  <img alt="" src=".github/preview-desktop.png" width="100%">
+  <img alt="" src="Desktop.jpeg" width="100%">
 </p>
 
 <h1>Mobile</h1>
 <p align="center">
-  <img alt="" src=".github/" width="50%">
+  <img alt="" src="Mobile.jpeg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
