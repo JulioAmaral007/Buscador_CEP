@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { FiSearch } from 'react-icons/fi'
-import api from './Services/API'
+import api from './services/api'
 
-import './SCSS/App.scss'
+import './scss/app.scss'
 
 type CepProps = {
   cep: number;
